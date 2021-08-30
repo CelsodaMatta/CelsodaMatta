@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @CelsodaMatta
-- 👀 I’m interested in desenvolver minha carreira.
-- 🌱 I’m currently learning o universo DEV.
-- 💞️ I’m looking to collaborate on  programas de estágio.
-- 📫 How to reach me  celsodamattaj@gmail.com
+Sou amante da evolução das pessoas e da tecnologia, TIC é oque me move.
+Me dedico com vigor a tudo e uso todas as experiências que adiquiri com quem dividiu comigo algum momento dessa vida em busca das soluções.
+Acredito na força da união dos times, isso é fundamental para nos superarmos e chegarmos no próximo nível
 
 <!---
 CelsodaMatta/CelsodaMatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
